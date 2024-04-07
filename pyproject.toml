@@ -1,6 +1,6 @@
 [project]
 name = "pgserver" # Required
-version = "0.0.7"  # Required
+version = "0.0.8"  # Required
 description = "Self-contained postgres server for your python applications" # Required
 readme = "README.md" # Optional
 requires-python = ">=3.9"
